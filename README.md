@@ -6,7 +6,7 @@ Desenvolvedor FullStack Multiplataforma em constante aprimoramento. Aluno do GoS
  <br/> 💻 Minha Stack: React Native, ReactJS e Node.js
  <br/> 🌱   Atualmente estou aprendendo: Next.js
  <br/> 🦸‍♂️   Irei aprender: VueJS, Elixir, Flutter
- <br/> 📫   Entre em contato comigo: manoelprado.aecjr@gmail
+ <br/> 📫   Entre em contato comigo: manoelprado.aecjr@gmail.com
  <br/> ⚡ Escritor por vezes🖋️ (em breve um bestseller brasileiro saindo do forno 📖🤞🏻)
 
 <h3 align="left">Languages and Tools:</h3>
