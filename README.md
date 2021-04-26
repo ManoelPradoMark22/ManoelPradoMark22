@@ -27,7 +27,7 @@ Desenvolvedor FullStack Multiplataforma em constante aprimoramento. Aluno do GoS
 </details>
 
 <details>
-<summary>👥 Redes Sociais</summary>
+<summary>Redes Sociais 👥</summary>
  
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manoel-de-oliveira-prado-neto-373796210/) 
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/manoelprado9/)
