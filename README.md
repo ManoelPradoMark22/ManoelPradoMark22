@@ -23,6 +23,7 @@ Desenvolvedor FullStack Multiplataforma em constante aprimoramento. Aluno do GoS
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=manoelpradomark22&theme=dark" alt="manoelpradomark22" /></p>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=manoelpradomark22&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=manoelpradomark22" alt="manoelpradomark22" /></a> </p>
 
 </details>
 
