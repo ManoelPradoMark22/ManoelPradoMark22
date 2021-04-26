@@ -16,11 +16,11 @@ Desenvolvedor FullStack Multiplataforma em constante aprimoramento. Aluno do GoS
 
 ---
 
-[![Manoel Prado github stats](https://github-readme-stats.vercel.app/api?username=manoelpradomark22&include_all_commits=true&theme=dracula&show_icons=true&icon_color=ad221d&hide_border=0&title_color=ad221d)](https://github.com/manoelpradomark22)
+[![Manoel Prado github stats](https://github-readme-stats.vercel.app/api?username=manoelpradomark22&include_all_commits=true&theme=dark&show_icons=true&icon_color=ad221d&hide_border=0&title_color=ad221d)](https://github.com/manoelpradomark22)
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=manoelpradomark22&theme=dracula&show_icons=true&locale=en&layout=compact" alt="manoelpradomark22" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=manoelpradomark22&theme=dark&show_icons=true&locale=en&layout=compact" alt="manoelpradomark22" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=manoelpradomark22&theme=dracula" alt="manoelpradomark22" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=manoelpradomark22&theme=dark" alt="manoelpradomark22" /></p>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=manoelpradomark22&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
 
