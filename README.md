@@ -7,7 +7,7 @@ Desenvolvedor FullStack Multiplataforma em constante aprimoramento. Aluno do GoS
   🔭 Atualmente estou trabalhando no meu aplicativo pessoal e profissional: ShopApp. Coming soon 🤞🏻💻📱
  <br/> 💻 Minha Stack: React Native, ReactJS e Node.js
  <br/> 🌱   Atualmente estou aprendendo: Next.js
- <br/> 📫   Entre em contato comigo: manoelprado.aecjr@gmail.com
+ <br/> 📫   Entre em contato comigo: <a href="manoelprado.aecjr@gmail" target="_blank"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail"/> </a>
  <br/> ⚡ Fun fact: Escritor por vezes🖋️ (em breve um bestseller brasileiro saindo do forno 🤞🏻)
 
 <h3 align="left">Languages and Tools:</h3>
