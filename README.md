@@ -1,6 +1,6 @@
 # 🚀👨‍💻 Manoel Prado
 ## Olá pessoal 👋
-Desenvolvedor FullStack Multiplataforma em constante aprimoramento. Aluno do GoStack (Ignite) da Rocketseat desde 2019.
+Desenvolvedor FullStack Multiplataforma em constante aprimoramento. Aluno do GoStack/Ignite da Rocketseat desde 2019.
 
   🔭 Atualmente estou trabalhando no meu aplicativo pessoal e profissional: ShopApp. Coming soon 🤞🏻💻📱
  <br/> 💻 Minha Stack: React Native, ReactJS e Node.js
