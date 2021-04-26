@@ -1,11 +1,9 @@
 # 🚀👨‍💻 Manoel Prado
 ## Olá pessoal 👋
 Desenvolvedor FullStack Multiplataforma em constante aprimoramento. Aluno do GoStack da Rocketseat desde 2019.
-
 <!--
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=manoelpradomark22" alt="manoelpradomark22" /></a> </p>
 -->
-
  <br/> 🔭 Atualmente estou trabalhando: no meu aplicativo pessoal e profissional: ShopApp. Coming soon 🤞🏻💻📱
  <br/> 💻📱 Minha Stack: React Native, ReactJS e Node.js
  <br/> 🌱 Atualmente estou aprendendo: Next.js
