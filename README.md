@@ -30,9 +30,9 @@ Desenvolvedor FullStack Multiplataforma em constante aprimoramento. Aluno do GoS
     <summary>Redes Sociais 👥</summary>
   
 ---
- 
-[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manoel-de-oliveira-prado-neto-373796210/) 
-[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/manoelprado9/)
-[![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/manoelprado9)
+
+<a href="https://www.linkedin.com/in/manoel-de-oliveira-prado-neto-373796210/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/></a>
+<a href="https://www.instagram.com/manoelprado9/" target="_blank"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram"/></a>
+<a href="https://twitter.com/manoelprado9" target="_blank"> <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="twitter"/></a>
 <br/> 💜 Rocketseat Student Profile: <a href="https://app.rocketseat.com.br/me/manoel-prado" target="_blank"> 🚀🚀Manoel Prado🚀🚀</a>
 </details>
