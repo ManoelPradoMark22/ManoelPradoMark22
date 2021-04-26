@@ -12,8 +12,8 @@ Desenvolvedor FullStack Multiplataforma em constante aprimoramento. Aluno do GoS
  <br/> 👥 Redes Sociais:
  
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manoel-de-oliveira-prado-neto-373796210/) 
-<br/> [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/manoelprado9/)
-<br/> [![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/manoelprado9)
+[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/manoelprado9/)
+[![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/manoelprado9)
 <br/> 💜 Rocketseat Student Profile: <a href="https://app.rocketseat.com.br/me/manoel-prado" target="_blank"> 🚀🚀🚀</a>
 
 <h3 align="left">Languages and Tools:</h3>
