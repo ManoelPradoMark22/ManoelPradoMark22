@@ -4,6 +4,7 @@ Desenvolvedor FullStack Multiplataforma em constante aprimoramento. Aluno do <a 
 
   🔭 Atualmente estou trabalhando no meu aplicativo pessoal e profissional: ShopApp. Coming soon 🤞🏻💻📱
  <br/> 💻 Minha Stack: React Native, ReactJS e Node.js
+ <br/> 💪 Foco maior: Front-end
  <br/> 🌱   Atualmente estou aprendendo: Next.js
  <br/> 🦸‍♂️   Irei aprender: VueJS, Elixir, Flutter
  <br/> 📫   Entre em contato comigo: manoelprado.aecjr@gmail.com
