@@ -32,7 +32,7 @@ Desenvolvedor FullStack Multiplataforma em constante aprimoramento. Aluno do <a 
     <summary>Redes Sociais 👥</summary>
   
 ---
-<a href="https://app.rocketseat.com.br/me/manoel-prado" target="_blank"> <img src="https://fiqueemcasa.nic.ifrn.edu.br/img/servicos/rock.png" alt="rocketseat" width="105" height="28"/></a>
+<a href="https://app.rocketseat.com.br/me/manoel-prado" target="_blank"> <img src="https://scontent.fvdc3-1.fna.fbcdn.net/v/t1.6435-9/238903642_118317563876457_7232732386524175020_n.jpg?_nc_cat=107&ccb=1-5&_nc_sid=730e14&_nc_ohc=qSeoqZPFMG0AX9sx9i0&tn=woKc8C_y2t_tjE5g&_nc_ht=scontent.fvdc3-1.fna&oh=7c5433499f2b26575881109fdc0529ed&oe=614AB433" alt="rocketseat" width="105" height="28"/></a>
 <a href="https://www.linkedin.com/in/manoel-de-oliveira-prado-neto-373796210/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/></a>
 <a href="https://twitter.com/manoelprado9" target="_blank"> <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="twitter"/></a>
 </details>
