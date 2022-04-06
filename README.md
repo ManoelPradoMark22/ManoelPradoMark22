@@ -2,11 +2,11 @@
 ## Olá pessoal 👋
 Desenvolvedor FullStack Multiplataforma em constante aprimoramento. Aluno do <a href="https://rocketseat.com.br/" target="_blank">GoStack/Ignite da Rocketseat</a> desde 2019.
 
-  🌱   Atualmente estou especializando em: Backend Node.js e tecnologia em nuvem AWS, no programa <a href="https://rocketseat.com.br/" target="_blank">IMPULSO TEC</a> (parceiros: Itaú, Accenture, AWS) - programa este que contou com mais de 23 mil candidatos do Brasil todo, para apenas 200 vagas;
- <br/> 💻 Minha Stack: React Native, ReactJS e Node.js
+  🌱   Atualmente estou especializando em: Backend Node.js e tecnologia em nuvem AWS, no programa <a href="https://rocketseat.com.br/" target="_blank">IMPULSO TEC</a> (parceiros: Itaú, Accenture, AWS) - programa este que contou com mais de 23 mil candidatos do Brasil todo, para apenas 200 vagas (<a href="https://www.linkedin.com/posts/manoel-de-oliveira-prado-neto-373796210_desenvolvimento-project-accenture-activity-6912769466887987200-2l92?utm_source=linkedin_share&utm_medium=member_desktop_web" target="_blank">post no Linkedin</a>);
+ <br/> 💻 Minha Stack: React Native, ReactJS e Node.js;
  <br/> 💪 Foco maior: Front-end; 
  <br/> 🦸‍♂️   Irei aprender: Next.Js;
- <br/> 📓   Leitura atual: "Código Limpo, Habilidades Práticas do Agile Software" (Robert C. Martin);
+ <br/> 📓   Leitura atual: "Código Limpo - Habilidades Práticas do Agile Software" (Robert C. Martin);
  <br/> ⚡ Escritor por vezes🖋️ (em breve um bestseller brasileiro saindo do forno 📖🤞🏻);
  <br/> 📫   Entre em contato comigo: manoelprado.aecjr@gmail.com
 
