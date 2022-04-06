@@ -7,7 +7,7 @@ Desenvolvedor FullStack Multiplataforma em constante aprimoramento. Aluno do <a 
  <br/> 💪 Foco maior: Front-end; 
  <br/> 🦸‍♂️   Irei aprender: Next.Js;
  <br/> 📓   Leitura atual: "Código Limpo - Habilidades Práticas do Agile Software" (Robert C. Martin);
- <br/> 📱   Sempre aplico meus conhecimentos em projetos profissionais próprios e em projetos para portfólio;
+ <br/> 📱   Busco sempre aplicar meus conhecimentos em projetos profissionais próprios e em projetos para portfólio;
  <br/> ⚡ Escritor por vezes🖋️ (em breve um bestseller brasileiro saindo do forno 📖🤞🏻);
  <br/> 📫   Entre em contato comigo: manoelprado.aecjr@gmail.com
 
