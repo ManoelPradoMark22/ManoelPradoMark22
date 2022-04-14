@@ -18,7 +18,7 @@ Desenvolvedor FullStack Multiplataforma em constante aprimoramento. Aluno do <a 
     <summary>My web sites 🌐</summary>
   
 ---
-<a href="https://i.ibb.co/bzvbvfh/chaplinlogo-PNG.png" target="_blank"> <img src="https://sorveteriachaplin.com.br/" alt="sorveteriachaplin" width="199" height="80"/></a>
+<a href="https://sorveteriachaplin.com.br/" target="_blank"> <img src="https://i.ibb.co/bzvbvfh/chaplinlogo-PNG.png" alt="sorveteriachaplin" width="199" height="80"/></a>
 <img src="https://i.ibb.co/yPSFBXf/space.png" width="9" height="80"/>
 <a href="https://santamariadoouro.com.br/" target="_blank"> <img src="https://i.ibb.co/CQZPYnd/igrejaarte.png" alt="santamariadoouro" width="85" height="80"/></a>
 <img src="https://i.ibb.co/yPSFBXf/space.png" width="9" height="80"/>
