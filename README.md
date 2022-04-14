@@ -15,7 +15,7 @@ Desenvolvedor FullStack Multiplataforma em constante aprimoramento. Aluno do <a 
 <p align="left"> <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://expressjs.com/pt-br/" target="_blank"> <img alt="express" src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg" width="80" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://aws.amazon.com/pt/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg" alt="aws" width="80" height="40"/> </a> </p>
 
 <details>
-    <summary>My web sites 🌐</summary>
+    <summary>My projects 🌐</summary>
   
 ---
 ## JavaScript+Html+Css (Web)
@@ -29,6 +29,12 @@ Desenvolvedor FullStack Multiplataforma em constante aprimoramento. Aluno do <a 
 <a href="https://github.com/ManoelPradoMark22/whatsappclone" target="_blank"> <img src="https://i.ibb.co/yBRSsL5/WHATSappclone.png" alt="whatsappclone" width="242" height="100"/></a>
 <img src="https://i.ibb.co/D4mPv3G/space.png" width="9" height="100"/>
 <a href="https://github.com/ManoelPradoMark22/ambevinovationgamewebclientpage" target="_blank"> <img src="https://i.ibb.co/C73qxh4/foradacaixa.png" alt="foradacaixa" width="242" height="100"/></a>
+  
+## React-Native (Mobile)
+<a href="https://github.com/ManoelPradoMark22/ignite_reactNative_gofinances_project2" target="_blank"> <img src="https://i.ibb.co/Z2Z21Bx/gofinances.png" alt="goFinances" width="169" height="150"/></a>
+<img src="https://i.ibb.co/D4mPv3G/space.png" width="9" height="100"/>
+  
+  
 </details>
 
  <details>
