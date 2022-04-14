@@ -33,7 +33,7 @@ Desenvolvedor FullStack Multiplataforma em constante aprimoramento. Aluno do <a 
 ## React-Native (Mobile)
 <a href="https://github.com/ManoelPradoMark22/ignite_reactNative_gofinances_project2" target="_blank"> <img src="https://i.ibb.co/Z2Z21Bx/gofinances.png" alt="goFinances" width="169" height="150"/></a>
 <img src="https://i.ibb.co/D4mPv3G/space.png" width="9" height="100"/>
-<a href=https://github.com/ManoelPradoMark22/app-GoBarber-Mobile" target="_blank"> <img src="https://i.ibb.co/tpRxgzx/gobarbermobile.png" alt="gobarbermobile" width="155" height="150"/></a>
+<a href="https://github.com/ManoelPradoMark22/app-GoBarber-Mobile" target="_blank"> <img src="https://i.ibb.co/tpRxgzx/gobarbermobile.png" alt="gobarbermobile" width="155" height="150"/></a>
 <img src="https://i.ibb.co/D4mPv3G/space.png" width="9" height="100"/>
   
   
