@@ -26,7 +26,7 @@ Desenvolvedor FullStack Multiplataforma em constante aprimoramento. Aluno do <a 
 <a href="https://easypcformat.com.br/" target="_blank"> <img src="https://i.ibb.co/6rNv16Q/logo-1.png" alt="easypcformat" width="166" height="80"/></a>
   
 ## React (Web)
-<a href="https://github.com/ManoelPradoMark22/whatsappclone" target="_blank"> <img src="https://i.ibb.co/HKk6qg2/WHATSappclone.png" alt="whatsappclone" width="242" height="100"/></a>
+<a href="https://github.com/ManoelPradoMark22/whatsappclone" target="_blank"> <img src="https://i.ibb.co/yBRSsL5/WHATSappclone.png" alt="whatsappclone" width="242" height="100"/></a>
 <img src="https://i.ibb.co/D4mPv3G/space.png" width="9" height="100"/>
 <a href="https://github.com/ManoelPradoMark22/ambevinovationgamewebclientpage" target="_blank"> <img src="https://i.ibb.co/C73qxh4/foradacaixa.png" alt="foradacaixa" width="242" height="100"/></a>
 </details>
