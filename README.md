@@ -38,6 +38,8 @@ Desenvolvedor FullStack Multiplataforma em constante aprimoramento. Aluno do <a 
 
 ## APIS (Node.js)
   
+## Teaching JavaScript
+  
 </details>
 
  <details>
