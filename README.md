@@ -39,7 +39,8 @@ Desenvolvedor FullStack Multiplataforma em constante aprimoramento. Aluno do <a 
 ## APIS (Node.js)
   
 ## Teaching JavaScript
-  
+<a href="https://www.youtube.com/watch?v=rv3yMi5q9ZE&list=PLVzNTI7PPjn0YVTRUCFVIRnjNV63l0iGt&ab_channel=ManoelPrado" target="_blank"> <img src="https://i.ibb.co/WVC3pSz/canal.png" alt="canalYT" width="155" height="150"/></a>
+
 </details>
 
  <details>
