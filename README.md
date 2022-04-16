@@ -26,7 +26,7 @@ Desenvolvedor FullStack Multiplataforma em constante aprimoramento. Aluno do <a 
 <a href="https://easypcformat.com.br/" target="_blank"> <img src="https://i.ibb.co/6rNv16Q/logo-1.png" alt="easypcformat" width="166" height="80"/></a>
   
 ## React (Web)
-<a href="https://github.com/ManoelPradoMark22/Rocketshoes-Redux-FirstProject" target="_blank"> <img src="https://i.ibb.co/XLKPbV9/gobarberweb.png" alt="Gobarberweb" width="274" height="160"/></a>
+<a href="https://github.com/ManoelPradoMark22/app-Gobarber-WEB" target="_blank"> <img src="https://i.ibb.co/XLKPbV9/gobarberweb.png" alt="Gobarberweb" width="274" height="160"/></a>
 <img src="https://i.ibb.co/D4mPv3G/space.png" width="9" height="9"/>
 <a href="https://github.com/ManoelPradoMark22/Rocketshoes-Redux-FirstProject" target="_blank"> <img src="https://i.ibb.co/LRnS3t7/ROCKETSHOESREACT.png" alt="ROCKETSHOES" width="266" height="160"/></a>
 <img src="https://i.ibb.co/D4mPv3G/space.png" width="9" height="9"/>
