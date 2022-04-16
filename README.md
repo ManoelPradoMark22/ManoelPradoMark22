@@ -38,7 +38,8 @@ Desenvolvedor FullStack Multiplataforma em constante aprimoramento. Aluno do <a 
 
 ## APIS (Node.js)
 <a href="https://github.com/ManoelPradoMark22/API-GoBarber" target="_blank"> <img src="https://i.ibb.co/BfQjRr0/apigobarber.png" alt="apigobarber" width="344" height="150"/></a>
-<a href="https://github.com/ManoelPradoMark22/API-GoBarber" target="_blank"> <img src="https://i.ibb.co/7QcS5bj/FINAPI.png" alt="finapi" width="291" height="150"/></a>
+<img src="https://i.ibb.co/D4mPv3G/space.png" width="9" height="9"/>
+<a href="https://github.com/ManoelPradoMark22/nodejs-2-finapi" target="_blank"> <img src="https://i.ibb.co/7QcS5bj/FINAPI.png" alt="finapi" width="291" height="150"/></a>
   
 ## Teaching JavaScript
 <a href="https://www.youtube.com/watch?v=rv3yMi5q9ZE&list=PLVzNTI7PPjn0YVTRUCFVIRnjNV63l0iGt&ab_channel=ManoelPrado" target="_blank"> <img src="https://i.ibb.co/WVC3pSz/canal.png" alt="canalYT" width="212" height="150"/></a>
