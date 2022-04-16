@@ -30,6 +30,8 @@ Desenvolvedor FullStack Multiplataforma em constante aprimoramento. Aluno do <a 
 <img src="https://i.ibb.co/D4mPv3G/space.png" width="9" height="9"/>
 <a href="https://github.com/ManoelPradoMark22/ambevinovationgamewebclientpage" target="_blank"> <img src="https://i.ibb.co/C73qxh4/foradacaixa.png" alt="foradacaixa" width="242" height="100"/></a>
 <img src="https://i.ibb.co/D4mPv3G/space.png" width="9" height="9"/>
+<a href="https://github.com/ManoelPradoMark22/Rocketshoes-Redux-FirstProject" target="_blank"> <img src="https://i.ibb.co/LRnS3t7/ROCKETSHOESREACT.png" alt="ROCKETSHOES" width="266" height="160"/></a>
+<img src="https://i.ibb.co/D4mPv3G/space.png" width="9" height="9"/>
 <a href="https://github.com/ManoelPradoMark22/Layout-Facebook-ReactJS/tree/master" target="_blank"> <img src="https://i.ibb.co/Sc23Rqy/Group-19.png" alt="FACEBOOKLAYOUT" width="284" height="160"/></a>
   
 ## React-Native (Mobile)
