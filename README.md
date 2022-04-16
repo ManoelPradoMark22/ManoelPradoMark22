@@ -33,13 +33,15 @@ Desenvolvedor FullStack Multiplataforma em constante aprimoramento. Aluno do <a 
 <a href="https://github.com/ManoelPradoMark22/Rocketshoes-Redux-FirstProject" target="_blank"> <img src="https://i.ibb.co/LRnS3t7/ROCKETSHOESREACT.png" alt="ROCKETSHOES" width="266" height="160"/></a>
 <img src="https://i.ibb.co/D4mPv3G/space.png" width="9" height="9"/>
 <a href="https://github.com/ManoelPradoMark22/Layout-Facebook-ReactJS/tree/master" target="_blank"> <img src="https://i.ibb.co/Sc23Rqy/Group-19.png" alt="FACEBOOKLAYOUT" width="284" height="160"/></a>
+<img src="https://i.ibb.co/D4mPv3G/space.png" width="9" height="9"/>
+<a href="https://github.com/ManoelPradoMark22/ReactJS-FirstProject" target="_blank"> <img src="https://i.ibb.co/vzQQgmV/gitrepo.png" alt="gitrepo" width="205" height="160"/></a>
   
 ## React-Native (Mobile)
 <a href="https://github.com/ManoelPradoMark22/ignite_reactNative_gofinances_project2" target="_blank"> <img src="https://i.ibb.co/Z2Z21Bx/gofinances.png" alt="goFinances" width="169" height="150"/></a>
 <img src="https://i.ibb.co/D4mPv3G/space.png" width="9" height="9"/>
 <a href="https://github.com/ManoelPradoMark22/app-GoBarber-Mobile" target="_blank"> <img src="https://i.ibb.co/tpRxgzx/gobarbermobile.png" alt="gobarbermobile" width="155" height="150"/></a>
 <img src="https://i.ibb.co/D4mPv3G/space.png" width="9" height="9"/>
-<a href="https://github.com/ManoelPradoMark22/ReactNative-FirstProject" target="_blank"> <img src="https://i.ibb.co/M5rNSPS/gitusers.png" alt="gobarbermobile" width="149" height="150"/></a>
+<a href="https://github.com/ManoelPradoMark22/ReactNative-FirstProject" target="_blank"> <img src="https://i.ibb.co/M5rNSPS/gitusers.png" alt="gitusers" width="149" height="150"/></a>
 
 ## APIS (Node.js)
 <a href="https://github.com/ManoelPradoMark22/API-GoBarber" target="_blank"> <img src="https://i.ibb.co/BfQjRr0/apigobarber.png" alt="apigobarber" width="344" height="150"/></a>
