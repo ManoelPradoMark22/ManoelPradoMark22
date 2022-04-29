@@ -52,6 +52,8 @@ Desenvolvedor FullStack Multiplataforma em constante aprimoramento. Aluno do <a 
   
 ## Teaching JavaScript
 <a href="https://www.youtube.com/watch?v=rv3yMi5q9ZE&list=PLVzNTI7PPjn0YVTRUCFVIRnjNV63l0iGt&ab_channel=ManoelPrado" target="_blank"> <img src="https://i.ibb.co/WVC3pSz/canal.png" alt="canalYT" width="212" height="150"/></a>
+<img src="https://i.ibb.co/D4mPv3G/space.png" width="9" height="9"/>
+<a href="https://github.com/ManoelPradoMark22/CoderDojo" target="_blank"> <img src="https://i.ibb.co/X2snkZC/Group-28.png" alt="coderdojo" width="246" height="150"/></a>
   
 ### <a href="https://github.com/ManoelPradoMark22?tab=repositories" target="_blank">+ repositórios</a>
 
