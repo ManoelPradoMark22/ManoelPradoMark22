@@ -6,6 +6,7 @@ Desenvolvedor FullStack Multiplataforma em constante aprimoramento. Aluno do <a 
  <br/> 💻 Minha Stack: React Native, ReactJS e Node.js;
  <br/> 💪 Foco maior: Front-end; 
  <br/> 🦸‍♂️   Irei aprender: Next.Js;
+ <br/> ☁️ Especializando minhas Skills em DevOps e CloudComputing AWS;
  <br/> 📓   Leitura atual: "Código Limpo - Habilidades Práticas do Agile Software" (Robert C. Martin);
  <br/> 📱   Busco sempre aplicar meus conhecimentos em projetos profissionais próprios e em projetos para portfólio;
  <br/> ⚡ Escritor por vezes🖋️ (em breve um bestseller brasileiro saindo do forno 📖🤞🏻);
