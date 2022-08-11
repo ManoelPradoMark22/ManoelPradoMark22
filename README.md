@@ -80,5 +80,5 @@ Desenvolvedor FullStack Multiplataforma em constante aprimoramento. Aluno do <a 
   
 ---
 <a href="https://app.rocketseat.com.br/me/manoel-prado" target="_blank"> <img src="https://i.ibb.co/fk9PcbD/rocket.jpg" alt="rocketseat" width="105" height="28"/></a>
-<a href="https://www.linkedin.com/in/manoel-de-oliveira-prado-neto-373796210/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/></a>
+<a href="https://www.linkedin.com/in/manoelpradomark22/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/></a>
 </details>
