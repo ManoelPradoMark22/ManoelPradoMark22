@@ -4,7 +4,7 @@ Desenvolvedor FullStack Multiplataforma em constante aprimoramento. Aluno do <a 
 
   🌱   Atualmente estou especializando em: Backend Node.js e tecnologia em nuvem AWS, no programa <a href="https://www.linkedin.com/posts/impulso-tec_tecnologia-sucesso-impulsotec-activity-6896462263260459008-pTBU?utm_source=linkedin_share&utm_medium=member_desktop_web" target="_blank">IMPULSO TEC</a> (parceiros: Itaú, Accenture, AWS) - programa este que contou com mais de 23 mil candidatos do Brasil todo, para apenas 200 vagas (<a href="https://www.linkedin.com/posts/manoel-de-oliveira-prado-neto-373796210_desenvolvimento-project-accenture-activity-6912769466887987200-2l92?utm_source=linkedin_share&utm_medium=member_desktop_web" target="_blank">post no Linkedin</a>);
  <br/> 💻 Minha Stack: React Native, ReactJS e Node.js;
- <br/> 💪 Foco maior: Front-end; 
+ <br/> 💪 Foco maior: Backend; 
  <br/> 🦸‍♂️   Irei aprender: Next.Js;
  <br/> ☁️ Especializando minhas Skills em DevOps e CloudComputing AWS;
  <br/> 📓   Leitura atual: "Código Limpo - Habilidades Práticas do Agile Software" (Robert C. Martin);
