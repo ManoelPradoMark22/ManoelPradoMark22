@@ -1,4 +1,4 @@
-aaaaaaaa# 🚀👨‍💻 Manoel Prado
+# 🚀👨‍💻 Manoel Prado
 ## Olá pessoal 👋
 Desenvolvedor FullStack Multiplataforma em constante aprimoramento. Aluno do <a href="https://rocketseat.com.br/" target="_blank">GoStack/Ignite da Rocketseat</a> desde 2019.
 
