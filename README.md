@@ -1,4 +1,4 @@
-# 🚀👨‍💻 Manoel Prado
+aaaaaaaa# 🚀👨‍💻 Manoel Prado
 ## Olá pessoal 👋
 Desenvolvedor FullStack Multiplataforma em constante aprimoramento. Aluno do <a href="https://rocketseat.com.br/" target="_blank">GoStack/Ignite da Rocketseat</a> desde 2019.
 
@@ -7,7 +7,6 @@ Desenvolvedor FullStack Multiplataforma em constante aprimoramento. Aluno do <a 
  <br/> 💪 Foco maior: Backend; 
  <br/> 🦸‍♂️   Irei aprender: Next.Js;
  <br/> ☁️ Especializando minhas Skills em DevOps e CloudComputing AWS;
- <br/> 📓   Leitura atual: "Código Limpo - Habilidades Práticas do Agile Software" (Robert C. Martin);
  <br/> 📱   Busco sempre aplicar meus conhecimentos em projetos profissionais próprios e em projetos para portfólio;
  <br/> ⚡ Escritor por vezes🖋️ (em breve um bestseller brasileiro saindo do forno 📖🤞🏻);
  <br/> 📫   Entre em contato comigo: manoelprado.aecjr@gmail.com
