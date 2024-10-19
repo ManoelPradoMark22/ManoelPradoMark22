@@ -2,10 +2,10 @@
 ## Hello World 👋
 Multiplatform Frontend Developer in constant improvement. Student of <a href="https://app.rocketseat.com.br/me/manoel-prado" target="_blank"><b>Rocketseat</b></a>'s Fullstack scholl since 2019.
 
-  💜   'Custom Software Engineering Associate' at Accenture Brasil since March 2022
-  <br/>👨‍💻   I have been working on a project for an international client (Mega Diamond client - Accenture's largest category) since January/2024. In this project, the entire team communicates in English, since the team has collaborators from all over the world. I have been delivering my tasks quickly and with extreme quality - which can be seen in the recent <a href="https://manoelpradomark22.github.io/myFeedbacks/" target="_blank"><b>feedbacks</b></a> I have received from colleagues on the project.<br/>
-  <br/>🗣️   My Received Feedbacks: 👉<a href="https://manoelpradomark22.github.io/myFeedbacks/" target="_blank"><b>click here</b></a>
-  <br/>🏅   Licenses and certificates: 👉<a href="https://www.linkedin.com/in/manoelpradomark22/details/certifications/" target="_blank"><b>click here</b></a>
+ 💜   'Custom Software Engineering Associate' at Accenture Brasil since March 2022
+ <br/>👨‍💻   I have been working on a project for an international client (Mega Diamond client - Accenture's largest category) since January/2024. In this project, the entire team communicates in English, since the team has collaborators from all over the world. I have been delivering my tasks quickly and with extreme quality - which can be seen in the recent <a href="https://manoelpradomark22.github.io/myFeedbacks/" target="_blank"><b>feedbacks</b></a> I have received from colleagues on the project.<br/>
+ <br/>🗣️   My Received Feedbacks: 👉<a href="https://manoelpradomark22.github.io/myFeedbacks/" target="_blank"><b>click here</b></a>
+ <br/>🏅   Licenses and certificates: 👉<a href="https://www.linkedin.com/in/manoelpradomark22/details/certifications/" target="_blank"><b>click here</b></a>
  <br/> 💻 My Stack: React Native, ReactJs e Node.js;
  <br/> 💪 My core: FrontEnd Web (ReactJs); 
  <br/> 🦸‍♂️   I'm learning: Next.Js;
@@ -28,11 +28,10 @@ Multiplatform Frontend Developer in constant improvement. Student of <a href="ht
 <a href="https://manoelpradomark22.github.io/santamariadoouro/" target="_blank"> <img src="https://i.ibb.co/kKBV3Qf/santamariadoouro.png" alt="santamariadoouro" width="85" height="80"/></a>
 <img src="https://i.ibb.co/D4mPv3G/space.png" width="9" height="9"/>
 <a href="https://manoelpradomark22.github.io/easypcformat/" target="_blank"> <img src="https://i.ibb.co/6rNv16Q/logo-1.png" alt="easypcformat" width="166" height="80"/></a>
-<img src="https://i.ibb.co/D4mPv3G/space.png" width="9" height="9"/>
+<br/>
 <a href="https://manoelpradomark22.github.io/myFeedbacks/" target="_blank"> <img src="https://i.ibb.co/7Wfv5jb/feedbacks.jpg" alt="myFeedbacks" width="274" height="274"/></a>
   
 ## React (Web)
-https://i.ibb.co/FgqyC1k/pizza-shop.png
 <a href="https://github.com/ManoelPradoMark22/pizza.shop-web/tree/backend-integration" target="_blank"> <img src="https://i.ibb.co/FgqyC1k/pizza-shop.png" alt="Pizza Shop" width="274" height="274"/></a>
 <img src="https://i.ibb.co/D4mPv3G/space.png" width="9" height="9"/>
 <a href="https://github.com/ManoelPradoMark22/app-Gobarber-WEB" target="_blank"> <img src="https://i.ibb.co/XLKPbV9/gobarberweb.png" alt="Gobarberweb" width="274" height="160"/></a>
