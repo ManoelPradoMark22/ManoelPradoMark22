@@ -1,8 +1,9 @@
 # 🚀👨‍💻 Manoel Prado
-## Olá pessoal 👋
-Multiplatform Frontend Developer in constant improvement. Student of <a href="https://www.rocketseat.com.br/" target="_blank"><b>Rocketseat</b></a>'s Fullstack scholl since 2019.
+## Hellow World 👋
+Multiplatform Frontend Developer in constant improvement. Student of <a href="https://app.rocketseat.com.br/me/manoel-prado" target="_blank"><b>Rocketseat</b></a>'s Fullstack scholl since 2019.
 
-  💜   'Custom Software Engineering Associate' at Accenture Brasil since 
+  💜   'Custom Software Engineering Associate' at Accenture Brasil since March 2022
+  <br/>👨‍💻   I have been working on a project for an international client (Mega Diamond client - Accenture's largest category) since January/2024. In this project, the entire team communicates in English, since the team has collaborators from all over the world. I have been delivering my tasks quickly and with extreme quality - which can be seen in the recent <a href="https://manoelpradomark22.github.io/myFeedbacks/" target="_blank"><b>feedbacks</b></a> I have received from colleagues on the project.<br/>
   <br/>🗣️   My Received Feedbacks: 👉<a href="https://manoelpradomark22.github.io/myFeedbacks/" target="_blank"><b>click here</b></a>
   <br/>🏅   Licenses and certificates: 👉<a href="https://www.linkedin.com/in/manoelpradomark22/details/certifications/" target="_blank"><b>click here</b></a>
  <br/> 💻 My Stack: React Native, ReactJs e Node.js;
