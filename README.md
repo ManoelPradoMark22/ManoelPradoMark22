@@ -11,7 +11,7 @@ Multiplatform Frontend Developer in constant improvement. Student of <a href="ht
  <br/> 🧠 Professional practice with: react-table, react-query, zod, react-hook-form; 
  <br/> 🧪 Tests: Unit tests and E2E tests (Playwright - Microsoft); 
  <br/> 🧱 Componentizing: antd, shadcn/ui; 
- <br/> 🎨 Style: styled-componets and TailwindCss;  <br/>
+ <br/> 🎨 Style: styled-components and TailwindCss;  <br/>
  <br/> 🦸‍♂️   I'm learning: Next.Js;
  <br/> ☁️ <a href="https://www.credly.com/badges/21a1bc9c-633c-4b50-a56d-3f6f5b701043/public_url" target="_blank"><b>AWS Cloud Practitioner Certified</b></a>;
  <br/> 📱   I always seek to apply my knowledge in my own professional projects and in portfolio projects;
