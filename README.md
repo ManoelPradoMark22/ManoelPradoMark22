@@ -1,23 +1,24 @@
 # 🚀👨‍💻 Manoel Prado
 ## Olá pessoal 👋
-Desenvolvedor Multiplataforma em constante aprimoramento. Aluno do <a href="https://rocketseat.com.br/" target="_blank">GoStack/Ignite da Rocketseat</a> desde 2019.
+Multiplatform Frontend Developer in constant improvement. Student of <a href="https://www.rocketseat.com.br/" target="_blank"><b>Rocketseat</b></a>'s Fullstack scholl since 2019.
 
-  💜   'Custom Software Engineering Associate' at Accenture Brasil
+  💜   'Custom Software Engineering Associate' at Accenture Brasil since 
   <br/>🗣️   My Received Feedbacks: 👉<a href="https://manoelpradomark22.github.io/myFeedbacks/" target="_blank"><b>click here</b></a>
-  <br/>🌱   Trilha Backend Node.js e tecnologia em nuvem AWS, no programa <a href="https://www.linkedin.com/posts/impulso-tec_tecnologia-sucesso-impulsotec-activity-6896462263260459008-pTBU?utm_source=linkedin_share&utm_medium=member_desktop_web" target="_blank">IMPULSO TEC</a> (parceiros: Itaú, Accenture, AWS) - programa este que contou com mais de 23 mil candidatos do Brasil todo, para apenas 200 vagas (<a href="https://www.linkedin.com/posts/manoel-de-oliveira-prado-neto-373796210_desenvolvimento-project-accenture-activity-6912769466887987200-2l92?utm_source=linkedin_share&utm_medium=member_desktop_web" target="_blank">post no Linkedin</a>);
- <br/> 💻 Minha Stack: React Native, ReactJs e Node.js;
- <br/> 💪 Foco maior: FrontEnd Web (ReactJs); 
- <br/> 🦸‍♂️   Irei aprender: Next.Js;
- <br/> ☁️ Especializando minhas Skills em DevOps e CloudComputing AWS;
- <br/> 📱   Busco sempre aplicar meus conhecimentos em projetos profissionais próprios e em projetos para portfólio;
- <br/> ⚡ Escritor por vezes🖋️ (em breve um bestseller brasileiro saindo do forno 📖🤞🏻);
- <br/> 📫   Entre em contato comigo: manoelprado.aecjr@gmail.com
+  <br/>🏅   Licenses and certificates: 👉<a href="https://www.linkedin.com/in/manoelpradomark22/details/certifications/" target="_blank"><b>click here</b></a>
+ <br/> 💻 My Stack: React Native, ReactJs e Node.js;
+ <br/> 💪 My core: FrontEnd Web (ReactJs); 
+ <br/> 🦸‍♂️   I'm learning: Next.Js;
+ <br/> ☁️ <a href="https://www.credly.com/badges/21a1bc9c-633c-4b50-a56d-3f6f5b701043/public_url" target="_blank"><b>AWS Cloud Practitioner Certified</b></a>;
+ <br/> 📱   I always seek to apply my knowledge in my own professional projects and in portfolio projects;
+ <br/> ⚡ Writer sometimes🖋️ (I hope one day I can finish my novel 📖🤞🏻);
+ <br/>🌱   Backend Node.js and AWS cloud technology track, in the program <a href="https://www.linkedin.com/posts/impulso-tec_tecnologia-sucesso-impulsotec-activity-6896462263260459008-pTBU?utm_source=linkedin_share&utm_medium=member_desktop_web" target="_blank">IMPULSO TEC</a> (parters: Itaú, Accenture, AWS) - this program had more than 23K candidates from all over Brazil, for only 200 vacancies (<a href="https://www.linkedin.com/posts/manoel-de-oliveira-prado-neto-373796210_desenvolvimento-project-accenture-activity-6912769466887987200-2l92?utm_source=linkedin_share&utm_medium=member_desktop_web" target="_blank">Linkedin post</a>);
+ <br/> 📫   Contact me: manoelprado.aecjr@gmail.com
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://spring.io/projects/spring-boot" target="_blank"> <img src="https://www.vectorlogo.zone/logos/springio/springio-ar21.svg" alt="spring" width="80" height="40"/> </a> <a href="https://expressjs.com/pt-br/" target="_blank"> <img alt="express" src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg" width="80" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://www.java.com/pt-BR/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/java/java-ar21.svg" alt="java" width="80" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.postgresql.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="postgres" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://jestjs.io/pt-BR/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://mochajs.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/mochajs/mochajs-icon.svg" alt="mocha" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://aws.amazon.com/pt/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg" alt="aws" width="80" height="40"/> </a> </p>
 
 <details open>
-    <summary>Principais projetos 🌐📱💻</summary>
+    <summary>Main projects 🌐📱💻</summary>
   
 ---
 ## Sites - JS
@@ -59,12 +60,12 @@ Desenvolvedor Multiplataforma em constante aprimoramento. Aluno do <a href="http
 <img src="https://i.ibb.co/D4mPv3G/space.png" width="9" height="9"/>
 <a href="https://github.com/ManoelPradoMark22/CoderDojo" target="_blank"> <img src="https://i.ibb.co/X2snkZC/Group-28.png" alt="coderdojo" width="246" height="150"/></a>
   
-### <a href="https://github.com/ManoelPradoMark22?tab=repositories" target="_blank">+ repositórios</a>
+### <a href="https://github.com/ManoelPradoMark22?tab=repositories" target="_blank">+ repositories</a>
 
 </details>
 
  <details>
-    <summary>Minhas Estatísticas no Github</summary>
+    <summary>My Github Stats</summary>
 
 ---
 
@@ -79,7 +80,7 @@ Desenvolvedor Multiplataforma em constante aprimoramento. Aluno do <a href="http
 </details>
 
 <details>
-    <summary>Redes Sociais 👥</summary>
+    <summary>Social media 👥</summary>
   
 ---
 <a href="https://app.rocketseat.com.br/me/manoel-prado" target="_blank"> <img src="https://i.ibb.co/fk9PcbD/rocket.jpg" alt="rocketseat" width="105" height="28"/></a>
