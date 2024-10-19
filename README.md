@@ -6,12 +6,12 @@ Multiplatform Frontend Developer in constant improvement. Student of <a href="ht
  <br/>👨‍💻   I have been working on a project for an international client (Mega Diamond client - Accenture's largest category) since January/2024. In this project, the entire team communicates in English, since the team has collaborators from all over the world. I have been delivering my tasks quickly and with extreme quality - which can be seen in the recent <a href="https://manoelpradomark22.github.io/myFeedbacks/" target="_blank"><b>feedbacks</b></a> I have received from colleagues on the project.<br/>
  <br/>🗣️   My Received Feedbacks: 👉<a href="https://manoelpradomark22.github.io/myFeedbacks/" target="_blank"><b>click here</b></a>
  <br/>🏅   Licenses and certificates: 👉<a href="https://www.linkedin.com/in/manoelpradomark22/details/certifications/" target="_blank"><b>click here</b></a>
- <br/> 💻 My Stack: React Native, ReactJs e Node.js;
+ <br/> 💻 My Stack: React Native, ReactJs e Node.js; <br/>
  <br/> 💪 My core: FrontEnd Web (ReactJs); 
  <br/> 🧠 Professional practice with: react-table, react-query, zod, react-hook-form; 
  <br/> 🧪 Tests: Unit tests and E2E tests (Playwright - Microsoft); 
  <br/> 🧱 Componentizing: antd, shadcn/ui; 
- <br/> 🎨 Style: styled-componets and TailwindCss; 
+ <br/> 🎨 Style: styled-componets and TailwindCss;  <br/>
  <br/> 🦸‍♂️   I'm learning: Next.Js;
  <br/> ☁️ <a href="https://www.credly.com/badges/21a1bc9c-633c-4b50-a56d-3f6f5b701043/public_url" target="_blank"><b>AWS Cloud Practitioner Certified</b></a>;
  <br/> 📱   I always seek to apply my knowledge in my own professional projects and in portfolio projects;
