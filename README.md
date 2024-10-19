@@ -1,5 +1,5 @@
 # 🚀👨‍💻 Manoel Prado
-## Hellow World 👋
+## Hello World 👋
 Multiplatform Frontend Developer in constant improvement. Student of <a href="https://app.rocketseat.com.br/me/manoel-prado" target="_blank"><b>Rocketseat</b></a>'s Fullstack scholl since 2019.
 
   💜   'Custom Software Engineering Associate' at Accenture Brasil since March 2022
