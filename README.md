@@ -5,6 +5,7 @@ Multiplatform Frontend Developer in constant improvement. Student of <a href="ht
  💜   Frontend Developer at Accenture Brasil since March 2022
  <br/>👨‍💻   I have been working on a project for an international client (largest client category: Mega Diamond) since January/2024. In this project, the entire team communicates in English, since the team has collaborators from all over the world. I have been delivering my tasks quickly and with extreme quality - which can be seen in the recent <a href="https://manoelpradomark22.github.io/myFeedbacks/" target="_blank"><b>feedbacks</b></a> I have received from colleagues on the project.<br/>
  <br/>🗣️   My Received Feedbacks: 👉<a href="https://manoelpradomark22.github.io/myFeedbacks/" target="_blank"><b>click here</b></a>
+ <br/>📜   My Resume (CV): 👉<a href="https://drive.google.com/file/d/1TnlbIfJZwdpRfejSHD-u2RlBFi79F_a5/view?usp=drivesdk" target="_blank"><b>click here</b></a>
  <br/>🏅   Licenses and certificates: 👉<a href="https://www.linkedin.com/in/manoelpradomark22/details/certifications/" target="_blank"><b>click here</b></a>
  <br/> 💻 My Stack: React Native, ReactJs and Node.js; <br/>
  <br/> 💪 My core: FrontEnd Web (ReactJs); 
